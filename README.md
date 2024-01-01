@@ -1,7 +1,3 @@
-Certainly! Here's a README file template for your Employee Information System project:
-
----
-
 # Employee Information System
 
 This project involves developing an Employee Information System using MySQL and Python. It provides functionalities like adding records, updating data, deleting records, and searching for specific employee information.
@@ -44,7 +40,7 @@ The project comprises several modules for different functionalities:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/employee-information-system.git
+   git clone https://github.com/Prakhar1802/Employee-information-database.git
    ```
 
 2. **Run the Application:**
