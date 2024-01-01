@@ -61,6 +61,3 @@ The project comprises several modules for different functionalities:
 
 - Prakhar Tripathi
 
----
-
-Feel free to customize this README file with more details about the project, its functionalities, installation instructions, or any additional information relevant to your project.
